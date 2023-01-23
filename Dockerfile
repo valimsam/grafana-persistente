@@ -1,2 +1,2 @@
-FROM debian:stable-slim
+FROM nginx:1.23.3
 
