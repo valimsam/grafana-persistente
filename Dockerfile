@@ -1,2 +1,2 @@
-FROM tomcat:9.0.71-jdk17-corretto-al2
-
+FROM nginx:1.23.3
+COPY index.html /usr/share/nginx/index.html
