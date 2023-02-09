@@ -1,2 +1,1 @@
-FROM nginx:1.23.3
-COPY index.html /usr/share/nginx/html/index.html
+FROM docker.io/grafana/grafana:9.3.6-ubuntu
